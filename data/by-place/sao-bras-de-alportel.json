@@ -500,39 +500,28 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T11:22:44Z",
+  "read_at": "2026-11-26T18:37Z",
   "by": "place.sao-bras-de-alportel@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Coro Bel Canto apresenta concerto de Natal no Museu do Traje em São Brás de Alportel",
-   "url": "https://postal.pt/algarve/coro-bel-canto-apresenta-concerto-de-natal-no-museu-do-traje-em-sao-bras-de-alportel/",
-   "source": "Postal do Algarve",
-   "date": "2026-11-20",
-   "read_at": "2026-11-26T11:20:10Z",
+   "title": "São Brás de Alportel promoveu a sua oferta turística no Congresso Nacional da AHRESP",
+   "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99307",
+   "source": "A Voz do Algarve",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T18:26:47Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Coro Bel Canto apresenta concerto de Natal no Museu do Traje em São Brás de Alportel",
-    "url": "https://postal.pt/algarve/coro-bel-canto-apresenta-concerto-de-natal-no-museu-do-traje-em-sao-bras-de-alportel/",
-    "published": "2026-11-20T17:05Z",
-    "date": "2026-11-20",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=São Brás&feed=rss2",
-    "read_at": "2026-11-26T11:20:10Z",
-    "mentions_place": true
-   },
-   {
-    "title": "São Brás de Alportel distingue equipa de bóccia pela conquista do título regional",
-    "url": "https://postal.pt/algarve/sao-bras-de-alportel-distingue-equipa-de-boccia-pela-conquista-do-titulo-regional/",
-    "published": "2026-11-16T10:46Z",
-    "date": "2026-11-16",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=São Brás&feed=rss2",
-    "read_at": "2026-11-26T11:20:10Z",
-    "mentions_place": true
+    "title": "São Brás de Alportel promoveu a sua oferta turística no Congresso Nacional da AHRESP",
+    "url": "http://www.avozdoalgarve.pt/detalhe.php?id=99307",
+    "published": "2026-11-26T18:26Z",
+    "source": "A Voz do Algarve",
+    "source_site": "https://www.avozdoalgarve.pt/",
+    "feed": "https://www.avozdoalgarve.pt/feed/",
+    "read_at": "2026-11-26T18:26:47Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
    }
   ]
  }
