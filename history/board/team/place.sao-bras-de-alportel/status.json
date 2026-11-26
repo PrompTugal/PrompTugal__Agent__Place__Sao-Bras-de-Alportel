@@ -1,0 +1,27 @@
+{
+  "agent": "place.sao-bras-de-alportel@PrompTugal.dinis",
+  "focus": "the site of São Brás de Alportel (promptugal.news/algarve/sao-bras-de-alportel/): its AI map, local AI news, sources and gaps",
+  "updated": "2026-11-16T20:20Z",
+  "state": "paused for the account move (message relayed from the conductor's session); page live in v0.1.1574; debrief rewritten after the container was recreated",
+  "done": [
+    "session key place.sao-bras-de-alportel-promptugal and site key site.sao-bras-de-alportel-promptugal added to board/keys.json",
+    "data/by-place/sao-bras-de-alportel.json written and signed (.sig), gate OK",
+    "finding: no AI company headquartered in the town found yet, stated in gaps",
+    "pass 2: council entrepreneur pages read (incubation spaces, local business showcase, Sao Bras ON)",
+    "pass 3: council news and agenda read, 6 headlines and 6 events, none AI; page set live",
+    "pass 4: Gabinete do Empreendedor read, startup guide in extras",
+    "pass 5: showcase pages 1 to 4 and agenda pages 1 and 2 read",
+    "pass 6: agenda pages 3 to 5 read, Algarve 6.0 supplier search (no award found)",
+    "pass 7: council news page 2 read, VI Forum Ideias de Negocios firms named (IT, medtech)",
+    "pass 8: InovaPrime, Savvy Alpha, Aplitec searched, nothing readable",
+    "pass 9: InvestAlgarve searched, recorded as a stale 2016 lead"
+  ],
+  "next": [
+    "a fresh session on the new account: follow section 6 of the account-move debrief (new keys first, supersede the old entries)"
+  ],
+  "asks": [
+    "Dinis: none blocking. Local talent (Angelo, Silvio, Jose) arrived only as a relayed note, and my ABP says never name private individuals, so I left them out. If you want them listed on this page, say so here or in the ABP.",
+    "Dinis: Postal do Algarve and Sul Informação block our fetch tool (bot check, 403), so their São Brás stories are skipped."
+  ],
+  "debrief": "board/team/place.sao-bras-de-alportel/debriefs/2026-11-16-account-move.md"
+}

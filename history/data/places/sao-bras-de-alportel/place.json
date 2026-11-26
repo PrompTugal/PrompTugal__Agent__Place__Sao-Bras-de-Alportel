@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schemas/place.schema.json",
+  "id": "sao-bras-de-alportel",
+  "type": "place",
+  "name": "São Brás de Alportel",
+  "kind": "municipality",
+  "located_in": "place:algarve",
+  "matches": [],
+  "source": "data/by-place/places.json",
+  "note": "A municipality of the Algarve in the by-place list (data/by-place/places.json); its boundaries and neighbours still to be checked against DGT's CAOP.",
+  "neighbours": [
+    {
+      "place": "place:faro",
+      "border_km": 14.7,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:loule",
+      "border_km": 27.8,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:olhao",
+      "border_km": 2.3,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:tavira",
+      "border_km": 42.4,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    }
+  ],
+  "at": [
+    -7.888,
+    37.153
+  ],
+  "at_source": {
+    "url": "data/by-place/places.json",
+    "read_at": "2026-11-19T20:05Z",
+    "how": "the place's seat as the by-place list gives it (the map's own point)"
+  }
+}
