@@ -1,0 +1,25 @@
+{
+ "name": "place.sao-bras-de-alportel",
+ "agent": "place.sao-bras-de-alportel@PrompTugal.dinis",
+ "place": "São Brás de Alportel",
+ "kind": "municipality",
+ "parent": "algarve",
+ "run_by": "cl-6.places@PrompTugal.dinis",
+ "run_by_session": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
+ "home": "https://github.com/PrompTugal/PrompTugal__Agent__Place__Sao-Bras-de-Alportel",
+ "state": "history and area done; local signals not yet read",
+ "updated": "2026-11-26T02:23Z",
+ "history": {
+  "done": true,
+  "files": 33,
+  "commits": 271,
+  "index": "history/PROVENANCE.md",
+  "log": "history/git-log.md"
+ },
+ "data": {
+  "by_place": "data/by-place/sao-bras-de-alportel.json",
+  "now": "data/by-place/now/sao-bras-de-alportel.json"
+ },
+ "wake": "twice a day, created by cl-6.maestro after setup (not by this agent)",
+ "branch": "dev"
+}
